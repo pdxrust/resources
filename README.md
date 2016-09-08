@@ -1,8 +1,14 @@
 # PDXRust Resources
 
-Apologies in advance for any video quality or editing issues. 
+Apologies in advance for any video quality or editing issues.
 
 Vidyo and archive.org links provide the same content in different players.
+
+## September 2016: Nick Cameron on Design Patterns & Jamey Sharp on Corrode
+
+* [Design Patterns archive.org video](https://archive.org/details/PdxrustSeptember2016NickCameronOnDesignPatternsInRust)
+
+* [Corrode: Translating C to Rust archive.org video](https://archive.org/details/PdxrustSeptember2016NickCameronOnDesignPatternsInRust)
 
 
 ## August 2016: Godfrey Chan on Helix (Bridging Ruby And Rust)
