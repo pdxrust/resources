@@ -8,7 +8,7 @@ Vidyo and archive.org links provide the same content in different players.
 
 * [Design Patterns archive.org video](https://archive.org/details/PdxrustSeptember2016NickCameronOnDesignPatternsInRust)
 
-* [Corrode: Translating C to Rust archive.org video](https://archive.org/details/PdxrustSeptember2016NickCameronOnDesignPatternsInRust)
+* [Corrode: Translating C to Rust archive.org video](https://archive.org/details/PdxrustSeptember2016JameySharpOnCorrodetranslatingCToRust)
 
 
 ## August 2016: Godfrey Chan on Helix (Bridging Ruby And Rust)
