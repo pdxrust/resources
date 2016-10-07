@@ -10,6 +10,7 @@ Vidyo and archive.org links provide the same content in different players.
 
 * [RustProof archive.org video](https://archive.org/details/PdxrustOctober2016Rustproof)
 * [RustProof slides](2016-10-rustproof-vcg.pdf)
+* [PSAS Flight Controller] (2016-10-PSAS_Flight_controller.md)
 
 ## September 2016: Nick Cameron on Design Patterns & Jamey Sharp on Corrode
 
